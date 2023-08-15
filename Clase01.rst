@@ -4,7 +4,7 @@
 
 Clase 01 - PIII 2023
 ====================
-(Fecha: 11 de agosto)
+(Fecha: 15 de agosto)
 
 :Profesores: César Osimani - Martín Salamero
 :Correos: cesarosimani@gmail.com - martin.salamero@gmail.com
@@ -80,4 +80,8 @@ Creación de entorno virtual
 	python.exe -m pip install --upgrade pip
 
 
+Ejemplo en Google Colab
+=======================
 
+
+- `https://colab.research.google.com/drive/1ZWUXGi-ZOOlEo3b1MGbtj0Wo-zzVGghF?usp=sharing <https://colab.research.google.com/drive/1ZWUXGi-ZOOlEo3b1MGbtj0Wo-zzVGghF?usp=sharing>`_
