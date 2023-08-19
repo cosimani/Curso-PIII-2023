@@ -7,6 +7,11 @@ Clase 02 - PIII 2023
 (Fecha: 18 de agosto)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - Instalación de herramientas - Entornos Virtuales - Colab <https://youtu.be/d0Iu1z00TNM>`_
+
 
 Instalación de herramientas
 ===========================
