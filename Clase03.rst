@@ -27,14 +27,14 @@ Instrucciones básicas de Python
 ¿Cómo ejecutamos este código?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Creamos una carpeta para almacenar nuestros códigos, por ejemplo: C:\\Cosas\\2022\\PIII2022\\Codigos\\Clase03
+- Creamos una carpeta para almacenar nuestros códigos, por ejemplo: C:\\Cosas\\PIII\\Codigos\\clase_de_hoy
 - Abrimos Sublime Text y guardamos estas líneas de código en un archivo llamado ``primerCodigo.py``
 - Abrir consola con CMD
 - Entrar al entorno virtual creado en la clase anterior, ejecutando lo siguiente (acomodar la ruta de ser necesario):
 
 .. code-block:: bash 
 
-	cd C:\Cosas\2022\PIII2022\EntornosVirtuales  # Accedemos a la carpeta
+	cd C:\Cosas\PIII\EntornosVirtuales  # Accedemos a la carpeta
 
 	.\entorno01\Scripts\activate  # Activamos el entorno virtual
 
@@ -44,7 +44,7 @@ Instrucciones básicas de Python
 
 	pip freeze  # Revisamos el listado de paquetes instalados en el entorno virtual
 
-	python C:\Cosas\2022\PIII2022\Codigos\Clase03\primerCodigo.py
+	python C:\Cosas\PIII\Codigos\clase_de_hoy\primerCodigo.py
 
 	# Recordar que para salir debemos desactivar el entorno virtual
 	deactivate
@@ -216,7 +216,7 @@ IDE para Python
 ^^^^^^^^^^^^^^^
 
 - Descargar `Spyder <https://www.spyder-ide.org/>`_
-- Versión actual: 5.3.2
+- Versión actual: 5.4.5
 - Instalar para todos los usuarios.
 
 Módulos y paquetes
