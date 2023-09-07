@@ -282,8 +282,8 @@ Módulos y paquetes
 
 
 
-Ejercicio
-=========
+Ejercicio 1
+===========
 
 - Asigne el valor 7 a la variable  x
 - Verifique e imprima la veracidad de la siguiente afirmación: ``x**2 + 5 − 2`` igual a ``( x ∗ 5 − 9 ) ∗ 2`` 
@@ -412,8 +412,8 @@ Biblioteca matplotlib
 
 
 
-Ejercicio
-=========
+Ejercicio 2
+===========
 
 - Considere la siguiente función: ``y = np.cos( n ) )``
 - Es una secuencia, es decir, una señal discreta, en función de ``n``.
