@@ -7,6 +7,11 @@ Clase 03 - PIII 2023
 (Fecha: 7 de septiembre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - Intrucciones básicas de Python - Ejercicios <https://youtu.be/vLPlyb5yV4k>`_
+
 
 Instrucciones básicas de Python
 ===============================
