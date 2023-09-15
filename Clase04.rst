@@ -7,6 +7,13 @@ Clase 04 - PIII 2023
 (Fecha: 14 de septiembre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - Reproducir audio en Colab - Ejercicios <https://youtu.be/uO1MHvWEISc>`_
+
+
+
 Cuadernos de código y herramientas
 ==================================
 
