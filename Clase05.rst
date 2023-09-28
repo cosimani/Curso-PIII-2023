@@ -7,6 +7,12 @@ Clase 05 - PIII 2023
 (Fecha: 28 de septiembre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - SciPy, FFT, reproducción y grabación en Colab <https://youtu.be/E-VuGXJM4rA>`_
+
+
 Biblioteca SciPy
 ================
  
