@@ -6,6 +6,12 @@ Clase 06 - PIII 2023
 ====================
 (Fecha: 5 de octubre)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - Espectrograma <https://youtu.be/iwmNAarngJk>`_
+
+
 `Espectrograma (ipynb) <https://colab.research.google.com/drive/13pAwFsh85rQo9aO9sPgh1W9acqZMRXBW?usp=sharing>`_ 
 =====================================
 
