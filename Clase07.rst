@@ -7,6 +7,11 @@ Clase 07 - PIII 2023
 (Fecha: 12 de octubre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - Filtro - Símbolos - Diagrama ojo <https://youtu.be/AtxAE1Qx4bc>`_
+
 
 .. figure:: images/sistema_comunicaciones_parte1.png
 
