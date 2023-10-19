@@ -9,8 +9,8 @@ Clase 08 - PIII 2023
 
 
 
-Revisión breve microcontroladores, placas de desarrollo, programación sobre DSPs
-=================================================================================
+Revisión breve de microcontroladores, placas de desarrollo, programación sobre DSPs
+===================================================================================
 
 Familias de microcontroladores Microchip
 ----------------------------------------
@@ -46,9 +46,7 @@ Softwares
 *Proteus*
 	- Conjunto de programas para diseño y simulación
 	- Desarrollado por Labcenter Electronics (http://www.labcenter.com)
-	- Versión actual: 8.15
-	- Versión 8.1 para compartir. Algunos problemas con Windows 10
-	- Versión 7.9 para compartir. Estable para Windows 10
+	- Versión actual: 8.16
 	- Herramientas principales: ISIS y ARES
 
 *ISIS (Intelligent Schematic Input System - Sistema de Enrutado de Esquemas Inteligente)*
@@ -71,7 +69,7 @@ Softwares
 *MATLAB*
 	- IDE con un lenguaje de programación propio.
 	- Simulación, matrices, algoritmos, GUI, DSP, ...
-	- Última versión estable R2020a (marzo de 2020).
+	- Última versión: R2023b
 
 Interrupciones
 --------------
@@ -173,15 +171,6 @@ Pinout de algunos dsPIC
 	    while( 1 )
 	       asm nop;
 	}
-
-
-Entregable 15
-=============
-
-- Preparar para el lunes 7 de noviembre la propuesta para el final.
-- Leer la clase 2 de PIII en GitHub y definir la modalidad para el examen final.
-- Escribir un documento con algunas de estas definiciones y enviarlas por mail.
-- En el siguiente `link el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
 
 
