@@ -10,7 +10,7 @@ Clase 08 - PIII 2023
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`PIII 2023 - dsPIC - interrupciones - timers - registros - FFT <https://youtu.be/AtxAE1Qx4bc>`_
+`PIII 2023 - dsPIC interrupciones FFT <https://youtu.be/AtxAE1Qx4bc>`_
 
 
 
