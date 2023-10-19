@@ -10,7 +10,6 @@ Clase 08 - PIII 2023
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`PIII 2023 - Filtro - Símbolos - Diagrama ojo <https://youtu.be/AtxAE1Qx4bc>`_
 
 
 
