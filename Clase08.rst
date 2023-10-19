@@ -7,11 +7,6 @@ Clase 08 - PIII 2023
 (Fecha: 19 de octubre)
 
 
-Registro en video de algunos temas de la clase de hoy
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
 
 
 Revisión breve de microcontroladores, placas de desarrollo, programación sobre DSPs
