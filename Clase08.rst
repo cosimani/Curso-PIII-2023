@@ -7,6 +7,10 @@ Clase 08 - PIII 2023
 (Fecha: 19 de octubre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`PIII 2023 - dsPIC - interrupciones - registros - FFT <https://youtu.be/I3ZtXRyqp8A>`_
 
 
 Revisión breve de microcontroladores, placas de desarrollo, programación sobre DSPs
@@ -174,7 +178,8 @@ Pinout de algunos dsPIC
 
 
 
-**Transformada de Fourier**
+Transformada de Fourier
+=======================
 
 - Es un análisis en frecuencia de las señales
 - La Transformada de Fourier nos indica de qué manera se distribuye, en función de la frecuencia, la potencia de la señal
