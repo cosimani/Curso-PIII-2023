@@ -7,6 +7,9 @@ Clase 08 - PIII 2023
 (Fecha: 19 de octubre)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - `PIII 2023 - dsPIC - Interrupciones - FFT <https://youtu.be/AtxAE1Qx4bc>`_
 
 
@@ -14,7 +17,8 @@ Clase 08 - PIII 2023
 
 Revisión breve de microcontroladores, placas de desarrollo, programación sobre DSPs
 ===================================================================================
-
+ 
+ 
 Familias de microcontroladores Microchip
 ----------------------------------------
 
