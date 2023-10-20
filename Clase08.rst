@@ -7,7 +7,7 @@ Clase 08 - PIII 2023
 (Fecha: 19 de octubre)
 
 
-- `Clic en este link para simular este circuito <https://youtu.be/AtxAE1Qx4bc>`_
+- `PIII 2023 - dsPIC - Interrupciones - FFT <https://youtu.be/AtxAE1Qx4bc>`_
 
 
 
