@@ -6,6 +6,11 @@ Clase 09 - PIII 2023
 ====================
 (Fecha: 2 de noviembre)
 
+
+- `PIII 2023 - Media móvil - GUI <https://youtu.be/t_X2TyRRF8E>`_
+
+
+
 Exponential Moving Average Filter (media móvil exponencial)
 ===========================================================
 
