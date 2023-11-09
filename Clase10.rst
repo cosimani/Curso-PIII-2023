@@ -28,7 +28,7 @@ Ejemplo para graficar sobre GUI
 
 .. figure:: images/gui_graficar_en_gui.png
 
-- `Aquí un ejemplo graficando sobre un gui <https://github.com/cosimani/Curso-PIII-2023/blob/main/images/gui_filtros.rar?raw=true>`_  
+- `Aquí para descargar el código de este ejemplo <https://github.com/cosimani/Curso-PIII-2023/blob/main/images/gui_filtros.rar?raw=true>`_  
 
 
 
