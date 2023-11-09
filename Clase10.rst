@@ -22,6 +22,8 @@ Aplicar filtros digitales
 
 - `Filtro de Butterworth <https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html>`_  
 
+- `Aquí un ejemplo en Colab <https://colab.research.google.com/drive/16t5LaaugTFQ0CETKtQ0V8E-niJARDo-t?usp=sharing>`_  
+
 
 Ejemplo para graficar sobre GUI
 ===============================
